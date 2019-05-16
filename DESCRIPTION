@@ -1,0 +1,20 @@
+Package: moffitdocs
+Title: R Markdown Templates for Moffitt Cancer Center
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Garrick",
+           family = "Aden-Buie",
+           role = c("aut", "cre"),
+           email = "Garrick.Aden-Buie@moffitt.org")
+Description: What the package does (one paragraph)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.1
+Suggests: 
+    testthat,
+    spelling
+Language: en-US
+Imports: 
+    magrittr
