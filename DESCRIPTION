@@ -18,3 +18,5 @@ Suggests:
 Language: en-US
 Imports: 
     magrittr
+URL: https://github.com/GerkeLab/moffitdocs
+BugReports: https://github.com/GerkeLab/moffitdocs/issues
